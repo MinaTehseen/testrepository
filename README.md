@@ -2,9 +2,13 @@
 
 
 I'm learning about footnote and basic editing.[^1].
+
 I learnt that footnote can also have multiple lines.[^2].
+
 I will be checking it below and attach link that helped me as well.[^3]
+
 Making a list of people guiding me through this.[^4]
+
 - Fahad Siddiqui
 * Faizan
 + Zeeshan

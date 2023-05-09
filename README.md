@@ -1,8 +1,8 @@
-# Work I did on my first doing at office:
+#Practising basic writing and formatting syntax 
 
-## Read about *GIT*
-## Genertaed a new *SSH* key
-## Learnt about *commit messages*
-## Completed *GIT* assignment
+I'm learning about footnote[^1].
 
+I learnt that footnote can also have multiple lines[^2].
 
+[^1]: Checking if footnote can have multiple lines.
+[^2]: *Yes*, footnote can have multiple lines. 

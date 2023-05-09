@@ -1,6 +1,14 @@
 # Practising basic writing and formatting syntax:
 
 
+| **Degree** | **Start** | **End** | **Grades** |
+| :---------- | :-------: | :-------: | --------: |
+| BSCS| 2019 | 2023 | _3.4_ |
+| FSc (Pre-Engineering) | 2015| 2017 | 84% |
+| Matriculation (Science) | 2013 | 2015 | 92% |
+
+
+
 I'm learning about footnote and basic editing.[^1].
 
 I learnt that footnote can also have multiple lines.[^2].
